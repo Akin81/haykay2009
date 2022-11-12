@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a data analyst
 - 👀 I’m interested in Python, SQL, PowerBi, Excel
 - 🌱 I’m currently working on series of projects
-- 💞️ I’m looking to collaborate on Data analysis
+- 💞️ I’m looking to collaborate on Data analysis projects
 - 📫 How to reach me ...
 
 <!---
